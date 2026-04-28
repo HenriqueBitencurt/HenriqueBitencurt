@@ -20,5 +20,11 @@ I am a high school student from Mato Grosso, Brazil, passionate about Software E
 * **Academic Excellence:** Complete Harvard's **CS50x** (Introduction to Computer Science) and **CS50 AI** (Introduction to AI with Python).
 * **Competition:** Preparing for OBI (Brazilian Informatics Olympiad).
 * **Growth:** Expanding my portfolio with real-world applications and helping my community.
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueBitencurt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Henrique's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBitencurt&layout=compact&theme=dracula&hide_langs_below=1" alt="Top Languages" height="150" />
+</p>
 ---
 "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
