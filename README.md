@@ -21,4 +21,4 @@ I am a high school student from Mato Grosso, Brazil, passionate about Software E
 * **Competition:** Preparing for OBI (Brazilian Informatics Olympiad).
 * **Growth:** Expanding my portfolio with real-world applications and helping my community.
 ---
-"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."## Hi there 👋
+"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
