@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Henrique Bitencurt 👋
 
-<!--
-**HenriqueBitencurt/HenriqueBitencurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a high school student from Mato Grosso, Brazil, passionate about Software Engineering and Game Development. My journey is focused on enrolling in a US University by August 2028.
 
-Here are some ideas to get you started:
+### 🎯 My Mission
+* **Impact through Technology:** My main goal is to help as many people as possible by creating useful and accessible technological solutions.
+* **Continuous Learning:** I am committed to improving my programming skills and technical knowledge every single day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Game Dev:** Godot Engine (GDScript and C++).
+* **Web:** HTML, CSS, JavaScript.
+* **Languages:** Python, Java (Learning).
+* **Current Languages:** Portuguese (Native), English (Student at inFlux).
+
+### 🚀 Featured Projects
+* **Cave Explorer:** A 2D adventure game exploring complex mechanics like inventory and data persistence.
+* **Estudos-EUA:** A utility platform currently helping **30 students** in my class organize their academic lives.
+
+### 🏆 Goals for 2026
+* **Academic Excellence:** Complete Harvard's **CS50x** (Introduction to Computer Science) and **CS50 AI** (Introduction to AI with Python).
+* **Competition:** Preparing for OBI (Brazilian Informatics Olympiad).
+* **Growth:** Expanding my portfolio with real-world applications and helping my community.
+---
+"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."## Hi there 👋
